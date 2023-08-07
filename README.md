@@ -3,8 +3,11 @@
 
 ![600x340](https://user-images.githubusercontent.com/110963294/217157702-6b17cf6f-40f2-4611-9da9-d5e11eadca2d.png)
 
+> 당근플래너는 항해99에서 [최고의 프로젝트](https://hanghae99.spartacodingclub.kr/v2/exhibitions/4)에 선정되었습니다.
+
 ### 안녕하세요. 당신 근처의 플래너: 당근 플래너 입니다.
-**당근 플래너**는 **뽀모도로 타이머 기반의 집중&시간관리 서비스**를 제공하고 있습니다.
+**뽀모도로 타이머 기반의 집중&시간관리 서비스**를 제공하고 있습니다.<br/>
+
 
 - 📅MVP 개발 기간: 22.12.30 - 23.02.01
 - [🥕당근플래너 이용하기](https://www.dggnplanner.com/)
